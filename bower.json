@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "ko.editableText",
     "version": "0.1.0",
     "main": "./build/ko.editableText.min.js",
@@ -13,4 +13,3 @@
         ".gitignore"
     ]
 }
-
