@@ -1,0 +1,16 @@
+﻿{
+    "name": "ko.editableText",
+    "version": "0.1.0",
+    "main": "./build/ko.editableText.min.js",
+    "ignore": [
+        "examples",
+        "ext",
+        "reports",
+        "spec",
+        "src",
+        "gruntfile.js",
+        "package.json",
+        ".gitignore"
+    ]
+}
+
